@@ -6,6 +6,9 @@ Estoy aprendiendo:
 *Todos los comandos de Git
 *Flujos de trabajo en Github
 *Encriptado SSH (muy importante para seguridad)
+*Hecho en Windows con un sistema simulado basado en Unix
+
+*Creado por mi para el mundo
 
 *Creado por mi para el mundo
 
