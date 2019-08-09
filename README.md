@@ -7,6 +7,8 @@ Estoy aprendiendo:
 *Flujos de trabajo en Github
 *Encriptado SSH (muy importante para seguridad)
 
+*Creado por mi para el mundo
+
 Como conclusión. **Estoy listo para dar el siguiente nivel de mi carrera.**
 
 P.D. Este es un ejercicio y a la vez una prueba de mis avances, pues ahora entiendo la importancia del README.md
